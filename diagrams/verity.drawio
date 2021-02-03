@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T15:37:31.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4407.0 Safari/537.36" etag="feRjNezl03W8OQJfJVfZ" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T15:52:49.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4407.0 Safari/537.36" etag="S-wkf5k0ycpDrveqkx47" version="14.2.9" type="github">
   <diagram id="Ro7jjz4fnRqXt9O_3c3Q" name="Page-1">
-    <mxGraphModel dx="569" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1527" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,29 +40,56 @@
             <mxPoint x="530" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;" edge="1" parent="1" source="s_XfVMtgGXcHWXwQwFxq-15" target="s_XfVMtgGXcHWXwQwFxq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s_XfVMtgGXcHWXwQwFxq-15" value="&lt;pre style=&quot;color: rgb(248 , 248 , 242) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;span style=&quot;color: #ff79c6&quot;&gt;Switch&lt;/span&gt;&lt;/pre&gt;" style="shape=hexagon;html=1;whiteSpace=wrap;perimeter=hexagonPerimeter;strokeWidth=4;rounded=0;labelBackgroundColor=#282A36;fillColor=#282A36;fontColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s_XfVMtgGXcHWXwQwFxq-18" value="&lt;pre style=&quot;background-color: #282a36 ; color: #f8f8f2 ; font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 12 0pt&quot;&gt;HomePage&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="390" y="370" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="s_XfVMtgGXcHWXwQwFxq-19" value="&lt;pre style=&quot;background-color: #282a36 ; color: #f8f8f2 ; font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 12 0pt&quot;&gt;&lt;span style=&quot;color: #50fa7b&quot;&gt;Login&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="410" y="450" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="s_XfVMtgGXcHWXwQwFxq-20" value="&lt;pre style=&quot;background-color: #282a36 ; color: #f8f8f2 ; font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 12 0pt&quot;&gt;&lt;span style=&quot;color: #b9bcd1&quot;&gt;Activation&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="370" y="510" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="s_XfVMtgGXcHWXwQwFxq-21" value="&lt;pre style=&quot;background-color: #282a36 ; color: #f8f8f2 ; font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 12 0pt&quot;&gt;&lt;span style=&quot;color: #b9bcd1&quot;&gt;Signup&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="400" y="580" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="s_XfVMtgGXcHWXwQwFxq-22" value="&lt;pre style=&quot;background-color: #282a36 ; color: #f8f8f2 ; font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 12 0pt&quot;&gt;&lt;span style=&quot;color: #b9bcd1&quot;&gt;ResetPassword&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="290" y="630" width="110" height="50" as="geometry" />
+          <mxGeometry x="260" y="240" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_XfVMtgGXcHWXwQwFxq-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-130" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="s_XfVMtgGXcHWXwQwFxq-24" value="&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;span&gt;AppContainer&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;padding:10px;labelBackgroundColor=none;fontColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="440" y="-130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="-150" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-28" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=8;fontColor=#000000;" vertex="1" parent="s_XfVMtgGXcHWXwQwFxq-30">
+          <mxGeometry width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-29" value="AppContainer подгружает App через React.Lazy, с помощью React.Suspense fallback на Loading (пока бандл с App не загрузится)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="s_XfVMtgGXcHWXwQwFxq-30">
+          <mxGeometry x="40" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;fontColor=#000000;" edge="1" parent="1" source="s_XfVMtgGXcHWXwQwFxq-31" target="s_XfVMtgGXcHWXwQwFxq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-31" value="&lt;pre style=&quot;color: rgb(248 , 248 , 242) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;span style=&quot;color: #ff79c6&quot;&gt;Footer&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#282A36;fillColor=#282A36;fontColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;" edge="1" parent="1" source="s_XfVMtgGXcHWXwQwFxq-36" target="s_XfVMtgGXcHWXwQwFxq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;" edge="1" parent="1" source="s_XfVMtgGXcHWXwQwFxq-39" target="s_XfVMtgGXcHWXwQwFxq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-39" value="&lt;pre style=&quot;color: rgb(248 , 248 , 242) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;span style=&quot;color: #50fa7b&quot;&gt;Login&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#282A36;fillColor=#282A36;fontColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-250" y="370" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-40" value="" style="group" vertex="1" connectable="0" parent="s_XfVMtgGXcHWXwQwFxq-44">
+          <mxGeometry width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="s_XfVMtgGXcHWXwQwFxq-40">
+          <mxGeometry width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-36" value="&lt;pre style=&quot;background-color: #282a36 ; color: #f8f8f2 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12 0pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;span style=&quot;color: #50fa7b&quot;&gt;HomePage&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#282A36;" vertex="1" parent="s_XfVMtgGXcHWXwQwFxq-40">
+          <mxGeometry y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s_XfVMtgGXcHWXwQwFxq-37" value="&lt;pre style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;&quot;&gt;withRouter&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;padding:10px;labelBackgroundColor=none;fontColor=#97D077;" vertex="1" parent="s_XfVMtgGXcHWXwQwFxq-44">
+          <mxGeometry x="90" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
